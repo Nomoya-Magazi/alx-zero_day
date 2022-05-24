@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 “git pull”
+=======
+$ git add up_to_date
+$ git pull
+>>>>>>> 87bdd81af07c43b3a7083fc49337c3112543e56f
